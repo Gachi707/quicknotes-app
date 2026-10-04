@@ -1,4 +1,4 @@
-﻿# QuickNotes
+# QuickNotes
 
 QuickNotes is a note-taking web app built with HTML, CSS and JavaScript. You can write short notes, sort them into categories, search through them, and they are saved in your browser so they are still there after a refresh.
 
@@ -20,6 +20,7 @@ QuickNotes is a note-taking web app built with HTML, CSS and JavaScript. You can
 
 ## What I learned
 
--how the data->save->render pattern keeps the screen in sync with the notes array
--why the textContent is safer than innerHTML for user text
--how localStorage needs JSON.stringify and JSON.parse
+- How the data, save and render pattern keeps the screen in sync with the notes array.
+- Why textContent is safer than innerHTML for user text.
+- How localStorage needs JSON.stringify and JSON.parse to store an array of objects.
+- How I fixed Git problems,such as pushing to the wrong repo and nested folders.
